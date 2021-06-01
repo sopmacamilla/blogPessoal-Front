@@ -4,3 +4,11 @@ html
 {
     scroll-behavior: smooth;
 }
+
+.fs-53 {
+    font-size: 53pt;
+}
+
+.fs-18 {
+    font-size: 18pt;
+}
